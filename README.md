@@ -18,23 +18,38 @@ then you have to create a main folder, it have 5 subfolder:
 
 # UI-introduce  
 1.Show using CPU & GPU.  
+  
 2.Loading main folder, main folder have 5 subfolder:test, train, save, gt, gene.  
+  
 3.Show the path of main folder.  
+  
 4.Confirm if "test" exists, if existed then show the number of images in folder. else show "None".  
+  
 5.Check if "train" exists, if existed then show the number of images in folder. else show "None".  
-6.Check if "save" exists, if existed then show the newest model in folder. if no model exist and s didn't foundthe folder, show "None".  
+  
+6.Check if "save" exists, if existed then show the newest model in folder. if no model exist and s didn't foundthe folder, show "None". 
+  
 7.Check if "gt" & "gene" exists, if existed then show "OK". else show "None".  
+  
 8 & 9.Set epochs, type number in textbox and click "Set epoch", the click "Start train" training will start.  
+  
 10 & 11.Set number that generate, type number in textbox and click "Set num", the click "Generate Image" generating will start.  
 It will random take the image in "test" folder, and will save target image to "gt", generate image to "gene" at same time and same name.  
+  
 12.QUIT UI  
+  
 13.Training preview.  
+  
 14.Record every epochs time cost.  
-   Show the process of generating.  
-   Show the IQA number of gt & gene.  
+    Show the process of generating.  
+    Show the IQA number of gt & gene.  
+  
 15.Show the training process, use star symbol.  
+  
 16.Show the UI-state.  
+  
 17.Cal the gt & gene IQA avg. like PSNR, SSIM, BRISQUE, NIQE.  
+  
 
 
 
