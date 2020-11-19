@@ -35,4 +35,4 @@
 	待命狀態：Waiting             |     訓練狀態：Training
 	生成影像狀態：Generateing      |     數值計算狀態： Calculating  
   
-17.	數值估算，按下後會讀取gt和gene中各張影像的各種數值評估，如PSNR、SSIM、BRISQUE、IL-NIQE等等。  
+17.	數值估算，按下後會讀取gt和gene中各張影像的各種數值評估，如PSNR、SSIM、BRISQUE、NIQE等等。  
